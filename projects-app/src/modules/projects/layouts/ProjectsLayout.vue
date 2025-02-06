@@ -4,7 +4,7 @@
          <TopMenu />
 
 
-        <main>
+        <main class="flex flex-row">
             <SideMenu />
             <router-view />
         </main>
